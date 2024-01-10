@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+nextjs 链接：https://nextjs.org/docs/getting-started/installation
+
+wagmi链接：https://wagmi.sh/react/getting-started
+
+viem: https://viem.sh/
+
 First, run the development server:
 
 ```bash
